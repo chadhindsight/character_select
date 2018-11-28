@@ -1,10 +1,10 @@
 import React from 'react';
 import CharacterCard from '../Containers/CharacterCard';
-const CharacterContainer = () => {
+const CharactersContainer = (props) => {
     return (
         <div>
         
         </div>
     )      
 }
-export default CharacterContainer
+export default CharactersContainer
