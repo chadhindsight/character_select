@@ -1,4 +1,4 @@
-#Character Select
+# Character Select
 This app was designed to mimic the traditional look and functionality found in various character menu screens found in fighting games. Basically, a user selects a character from the list and the related info about that character is displayed.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
